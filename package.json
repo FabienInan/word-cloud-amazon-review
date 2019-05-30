@@ -1,7 +1,7 @@
 {
-  "name": "extension-skeleton",
-  "version": "0.3.0",
-  "description": "Bare Google Chrome extension skeleton.",
+  "name": "wcamazonreview",
+  "version": "0.1.0",
+  "description": "The fastest way to see reviews of Amazon products. Improve your productivity and save your time.",
   "engines": {
     "node": "7.0.0",
     "npm": "3.10.8"
@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "jquery": "3.1.1",
-    "lodash": "4.17.4"
+    "lodash": "4.17.4",
+    "wordcloud": "^1.1.0"
   },
   "devDependencies": {
     "babel-core": "6.18.2",
